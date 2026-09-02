@@ -3,6 +3,8 @@ import './globals.css';
 import './mobile.css';
 import './photo.css';
 import './category.css';
+import './sale.css';
+import './barcode.css';
 export const metadata:Metadata={
  metadataBase:new URL('https://casa-do-pescador-gestao.lucas-27-ant-onio-f.chatgpt.site'),
  title:'Casa do Pescador | Gestão da Loja',
